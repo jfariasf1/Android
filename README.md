@@ -1,5 +1,5 @@
 
-# Privacy Policy
+# Privacy Policy for Ubik app
 
 Last updated: July 27, 2022
 
