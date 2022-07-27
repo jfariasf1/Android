@@ -14,7 +14,7 @@ We use unidentifiable data to provide and improve the Service. By using the Serv
 
 Data used by the app
 
-While using Our Service, your phone might share uninddentifable information with 3rd parties to provide it's basic functionality, such as:
+While using Our Service, your phone might share unidentifiable information with 3rd parties to provide it's basic functionality, such as:
 
     Usage Data
     Location
